@@ -41,5 +41,5 @@ $ rabbitmqadmin get queue='hello'
 
 ![4](https://github.com/Avdey87/RabbitMQ/blob/main/RC_1.jpg)
 ![5](https://github.com/Avdey87/RabbitMQ/blob/main/RC_2.jpg) 
-
+![6](https://github.com/Avdey87/RabbitMQ/blob/main/RC_3.jpg) 
 
