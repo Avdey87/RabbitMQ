@@ -39,4 +39,7 @@ $ rabbitmqadmin get queue='hello'
 
 Приложите скриншот результата работы второго скрипта.
 
+![4](https://github.com/Avdey87/RabbitMQ/blob/main/RC_1.jpg)
+![5](https://github.com/Avdey87/RabbitMQ/blob/main/RC_2.jpg) 
+
 
